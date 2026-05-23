@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rahul & Sayani Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Wedding Ceremony of Rahul & Sayani
+UID:rahulsayaniwedding2026@wedding.com
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTART:20260707T190000
+DTEND:20260707T235959
+DESCRIPTION:You are cordially invited to celebrate the wedding ceremony of Rahul & Sayani at ITC Royal Bengal, Kolkata.
+LOCATION:ITC Royal Bengal, West Bengal 700046
+END:VEVENT
+END:VCALENDAR
