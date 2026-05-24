@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Rahul & Sayani Wedding//EN
+PRODID:-//Rahul & Srabani Wedding//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Wedding Ceremony of Rahul & Sayani
-UID:rahulsayaniwedding2026@wedding.com
+SUMMARY:Wedding Ceremony of Rahul & Srabani
+UID:rahulSrabaniwedding2026@wedding.com
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTART:20260706T190000
 DTEND:20260706T235959
-DESCRIPTION:You are cordially invited to celebrate the wedding ceremony of Rahul & Sayani at ITC Royal Bengal, Kolkata.
+DESCRIPTION:You are cordially invited to celebrate the wedding ceremony of Rahul & Srabani at ITC Royal Bengal, Kolkata.
 LOCATION:63/1 Netaji Subhash Road New Barrackpur
 END:VEVENT
 END:VCALENDAR
